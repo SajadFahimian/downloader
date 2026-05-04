@@ -74,3 +74,11 @@ a
 
 موفق باشید.
 
+
+---
+
+## فایل های دانلود شده در گیتهاب شما :
+
+1. [torch-2.6.0%2Bcu124-cp311-cp311-win_amd64](https://github.com/SajadFahimian/downloader/tree/main/downloads/torch-2.6.0%2Bcu124-cp311-cp311-win_amd64)
+
+---
